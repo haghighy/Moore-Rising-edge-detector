@@ -1,0 +1,36 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=Project_group6
+[Library]
+Project_group6=.\Project_group6\Project_group6.lib
+[$LibMap$]
+Project_group6=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/Project_group6.vhd=-1
+/untitled.asdb=-1
+/untitled.awc=-1
+TestBench/edgedetector_TB.vhd=-1
+TestBench/edgedetector_TB_runtest.do=-1
+[Files.Data]
+.\src\Project_group6.vhd=VHDL Source Code
+.\src\untitled.asdb=Accelerated Waveform File
+.\src\untitled.awc=Accelerated Waveform Configuration
+.\src\TestBench\edgedetector_TB.vhd=VHDL Test Bench
+.\src\TestBench\edgedetector_TB_runtest.do=Macro
+[Groups]
+TestBench=1
+[HierarchyViewer]
+HierarchyInformation=edgedetector_tb|TB_ARCHITECTURE|0
+ShowHide=ShowTopLevel
+Selected=

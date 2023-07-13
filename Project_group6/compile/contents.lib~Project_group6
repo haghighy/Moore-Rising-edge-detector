@@ -1,0 +1,6 @@
+21
+~E 1 "../src/Project_group6.vhd" 4 edgeDetector
+~A 1 "../src/Project_group6.vhd" 12 arch
+~E 1 "../src/TestBench/edgedetector_TB.vhd" 6 edgedetector_tb
+~A 1 "../src/TestBench/edgedetector_TB.vhd" 9 TB_ARCHITECTURE
+~C 1 "../src/TestBench/edgedetector_TB.vhd" 106 testbench_for_edgedetector

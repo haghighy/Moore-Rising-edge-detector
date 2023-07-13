@@ -1,0 +1,6 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: E:/neg/term6/CAD/project-1/Project_group6/Project_group6/src/TestBench/edgedetector_TB.vhd" 
+MESSAGE "Compile Entity "edgedetector_tb"" 
+MESSAGE "Compile Architecture "TB_ARCHITECTURE" of Entity "edgedetector_tb"" 
+MESSAGE "Compile Configuration "TESTBENCH_FOR_edgedetector"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]" 
